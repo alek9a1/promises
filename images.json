@@ -1,0 +1,24 @@
+{
+	"images": [
+		{		
+			"id": 1,
+			"title": "Koń",
+			"url": "images/1.jpg"
+		},
+		{		
+			"id": 2,
+			"title": "Pies",
+			"url": "images/2.jpg"
+		},
+		{		
+			"id": 3,
+			"title": "Kaczka",
+			"url": "images/3.jpg"
+		},
+		{		
+			"id": 4,
+			"title": "Ryba",
+			"url": "images/4.jpg"
+		}
+	]
+}
